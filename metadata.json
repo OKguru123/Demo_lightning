@@ -1,0 +1,6 @@
+{
+  "name": "demo_tv",
+  "identifier": "com.domain.app.demotv",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
